@@ -9,20 +9,4 @@ cwd = "./"
 directory = "./dist"
 
 [env.production]
-name = "optiline-systems-static-prod"name = "optiline-systems-static"
-#type = "javascript"
-#account_id = ""
-workers_dev = true
-#route = ""
-#zone_id = ""
-compatibility_date = "2026-07-16"
-
-[build]
-command = "pnpm install && pnpm build"
-cwd = "./"
-
-[build.upload]
-format = "service-worker"
-
-[env.production]
 name = "optiline-systems-static-prod"
