@@ -54,7 +54,7 @@
   --radius: 0.65rem;
   --background: oklch(0.051 0 0); /* #0d0d0d - deep charcoal */
   --foreground: oklch(1 0 0); /* white */
-  --card: oklch(0.08 0 0); /* slightly lighter charcoal */
+  --card: oklch(0.13 0 0); /* slightly lighter charcoal */
   --card-foreground: oklch(1 0 0); /* white */
   --popover: oklch(0.08 0 0);
   --popover-foreground: oklch(1 0 0);
@@ -85,7 +85,7 @@
   --sidebar-primary-foreground: oklch(1 0 0);
   --background: oklch(0.051 0 0);
   --foreground: oklch(1 0 0);
-  --card: oklch(0.08 0 0);
+  --card: oklch(0.13 0 0);
   --card-foreground: oklch(1 0 0);
   --popover: oklch(0.08 0 0);
   --popover-foreground: oklch(1 0 0);
